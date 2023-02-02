@@ -1,5 +1,9 @@
 body {
     max-width: 100vw;
-    background-color: burlywood;
+    background-color: rgb(170, 170, 250);
 }
 
+ul {
+    list-style-type: circle;
+    font-size: 24px;
+}
