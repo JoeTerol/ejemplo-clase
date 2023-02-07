@@ -1,0 +1,43 @@
+Este es un trabajo integrador que nos servirá para inicializarnos en el mundo del trabajo colaborativo
+
+Herramientas necesarias: 
+1) Visual Studio Code 
+2) Un perfil de Github
+3) Un equipo de trabajo aleatorio, creado por los breakout rooms
+4) Conexión a internet
+5) Conexión a Github
+6) Muchas pero muchas ganas y también mucha paciencia
+
+Objetivos: 
+1) Poner en práctica los comandos locales y remotos de git para vincular nuestro repositorio a Github
+2) Empezar a dialogar con un equipo real de trabajo que nos ayude a tomar decisiones
+3) Aprender a trabajar en equipo
+4) Aprender a trabajar con un repositorio remoto colaborativo
+
+¿Qué vamos a hacer?
+1) Ingresar a https://github.com/ftureo/
+2) Buscar en "repositorios" el repositorio llamado "repaso-contenidos"
+3) Crear una versión local a través del clonado del repositorio
+4) Uno de los integrantes deberá crear un repositorio remoto en su cuenta con el nombre que deseen para este repositorio
+5) Borrar la referencia remota del repositorio clonado. 
+6) Agregar la nueva referencia correspondiente al repositorio creado por el integrante que hayan acordado. 
+7) Crear una branch con el prefijo "dev-" y luego colocar su nombre o nickname. i.e. si el integrante se llama "Fede" su rama debe llamarse "dev-fede"
+8) Asegurarse de tener todas las ramas remotas en su repositorio local. Para ver la rama en local, hacer un checkout a la rama de todos los integrantes. 
+9) Borrar las ramas locales y remotas que no correspondan (Correspondientes a los ejercicios en clase) 
+10) Crear un archivo llamado "integrantes.txt" y colocar el nombre de todos los integrantes del equipo.
+11) Considerar la actualización del repositorio y de su rama principal a través de ejecutar el comando git pull. 
+12) Tendrán que hacer un maquetado en el que exista: 
+    a. Una navbar con dos páginas de redirección. (Home - Contact)
+    b. Un footer que contenga los repositorios de Github de cada integrante
+    c. Un formulario de contacto
+    d. Una landing page que muestre una foto de cada integrante, con una descripción en formato de card que muestre:
+        i. Nombre
+        ii. Apellido
+        iii. Edad
+        iv. Hobbies
+        v. Una breve descripción de cada uno
+
+Los estilos son libres pero tienen que conversar al respecto. 
+Debe existir un avance desde el lunes 06/02/2023 - 21.30h hasta el miércoles 08/02/2023 - 19.00h
+Deberán practicar "merge"
+La rama principal debe contener el trabajo sumado de todos los integrantes del equipo. 
